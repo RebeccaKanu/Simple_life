@@ -424,6 +424,12 @@ body {
   font-family: "monospace";
 }
 
+
 .articleStyle {
   height: 1400px;
 }
+
+.articleStyle:hover {
+  height: 1400px;
+}
+
